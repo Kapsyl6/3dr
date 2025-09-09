@@ -3359,3 +3359,381 @@ Sampler Limit: 32
 [2025.09.09-14.53.36:590][266]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.09-14.53.36:590][266]AssetCheck: /Game/dagsscen Validating asset
 [2025.09.09-14.53.36:605][266]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.09-14.55.00:616][581]Cmd: TRANSACTION UNDO
+[2025.09.09-14.55.00:616][581]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.09.09-14.55.00:638][581]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_7 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.00:638][581]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_1_0.Heightmap_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.00:638][581]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_5 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.00:638][581]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_1_0.Heightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.00:640][581]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_6 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.00:641][581]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_4 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.01:441][615]Cmd: TRANSACTION UNDO
+[2025.09.09-14.55.01:441][615]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.09.09-14.55.01:451][615]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_3 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.01:452][615]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.01:452][615]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_2 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.01:452][615]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.01:453][615]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_7 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.01:453][615]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_5 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.01:454][615]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_6 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.01:454][615]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_4 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.38:583][836]Cmd: TRANSACTION UNDO
+[2025.09.09-14.55.38:584][836]LogEditorTransaction: Undo Landscape Editing: Paint
+[2025.09.09-14.55.38:633][836]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0 : the proxy's root component isn't properly set or registered
+[2025.09.09-14.55.38:633][836]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0 : the proxy's root component isn't properly set or registered
+[2025.09.09-14.55.38:633][836]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0 : the proxy's root component isn't properly set or registered
+[2025.09.09-14.55.38:633][836]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0 : the proxy's root component isn't properly set or registered
+[2025.09.09-14.55.38:646][836]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_2 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.55.38:647][836]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.09:712][176]LogLandscape: Warning: Landscape component /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.LandscapeComponent_8 is not spatially aligned with the group grid (3341707), seam artifacts may appear.
+[2025.09.09-14.56.09:712][176]LogLandscape: Warning: Landscape component /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.LandscapeComponent_9 is not spatially aligned with the group grid (3341707), seam artifacts may appear.
+[2025.09.09-14.56.13:262][470]Cmd: TRANSACTION UNDO
+[2025.09.09-14.56.13:262][470]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.09.09-14.56.13:270][470]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_1_0.Heightmap_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.13:270][470]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_5 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.13:271][470]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_1_0.Heightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.13:271][470]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_4 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.14:854][574]Cmd: TRANSACTION UNDO
+[2025.09.09-14.56.14:854][574]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.09.09-14.56.14:863][574]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_5 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.14:864][574]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_4 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.14:865][574]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_1_0.Heightmap_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.14:865][574]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_1_0.Heightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.23:723][366]Cmd: TRANSACTION UNDO
+[2025.09.09-14.56.23:723][366]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.09.09-14.56.23:734][366]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_1_0.Heightmap_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.23:735][366]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_7 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.23:735][366]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_5 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.23:735][366]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_1_0.Heightmap_4 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.23:736][366]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_1_0.Heightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.23:736][366]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_6 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.23:736][366]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_4 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.41:274][908]Cmd: TRANSACTION UNDO
+[2025.09.09-14.56.41:274][908]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.09.09-14.56.41:285][908]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_7 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.41:285][908]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_5 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.41:286][908]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_3 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.41:286][908]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.41:287][908]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_4 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.41:287][908]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_2 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.41:287][908]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.41:288][908]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_6 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.45:339][224]Cmd: TRANSACTION UNDO
+[2025.09.09-14.56.45:339][224]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.09.09-14.56.48:887][480]Cmd: TRANSACTION UNDO
+[2025.09.09-14.56.48:887][480]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.09.09-14.56.57:207][202]Cmd: TRANSACTION UNDO
+[2025.09.09-14.56.57:207][202]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.09.09-14.56.57:215][202]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_7 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.57:215][202]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_3 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.57:215][202]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_2 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.57:216][202]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_6 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.56.57:962][232]Cmd: TRANSACTION UNDO
+[2025.09.09-14.56.57:962][232]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.09.09-14.57.01:779][587]Cmd: TRANSACTION UNDO
+[2025.09.09-14.57.01:779][587]LogEditorTransaction: Undo Landscape Editing: Erase
+[2025.09.09-14.57.04:894][840]Cmd: TRANSACTION UNDO
+[2025.09.09-14.57.04:894][840]LogEditorTransaction: Undo Landscape Editing: Erase
+[2025.09.09-14.57.04:904][840]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_7 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.57.04:904][840]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_5 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.57.04:904][840]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_3 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.57.07:875][124]Cmd: TRANSACTION UNDO
+[2025.09.09-14.57.07:875][124]LogEditorTransaction: Undo Landscape Editing: Erase
+[2025.09.09-14.57.07:883][124]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_3 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.57.07:883][124]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.57.08:489][141]Cmd: TRANSACTION UNDO
+[2025.09.09-14.57.08:489][141]LogEditorTransaction: Undo Landscape Editing: Erase
+[2025.09.09-14.57.09:193][205]Cmd: TRANSACTION UNDO
+[2025.09.09-14.57.09:193][205]LogEditorTransaction: Undo Landscape Editing: Erase
+[2025.09.09-14.57.28:254][972]Cmd: TRANSACTION UNDO
+[2025.09.09-14.57.28:254][972]LogEditorTransaction: Undo Landscape Editing: Paint
+[2025.09.09-14.57.28:258][972]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0 : the proxy's root component isn't properly set or registered
+[2025.09.09-14.57.28:258][972]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0 : the proxy's root component isn't properly set or registered
+[2025.09.09-14.57.28:258][972]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0 : the proxy's root component isn't properly set or registered
+[2025.09.09-14.57.28:258][972]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0 : the proxy's root component isn't properly set or registered
+[2025.09.09-14.57.28:264][972]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_20 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.57.28:265][972]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_22 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.57.28:268][972]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_2 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.57.28:268][972]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.57.57:298][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4304.403809
+[2025.09.09-14.57.57:458][507]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.09-14.57.57:458][507]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4304.551758, Update Interval: 305.262604
+[2025.09.09-14.58.12:522][882]Cmd: TRANSACTION UNDO
+[2025.09.09-14.58.12:522][882]LogEditorTransaction: Undo Landscape Editing: Erase
+[2025.09.09-14.58.12:539][882]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_7 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.12:539][882]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_5 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.12:539][882]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_3 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.12:540][882]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.12:569][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.09-14.58.12:770][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.09-14.58.12:793][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.09.09-14.58.12:810][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.09.09-14.58.12:821][882]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/4/DJ/AQ7PG3CBSQ0L6OT84I7K9J
+[2025.09.09-14.58.12:822][882]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/AQ7PG3CBSQ0L6OT84I7K9J84A3AECA4CA6A41B4776D1B90BE7C162.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/4/DJ/AQ7PG3CBSQ0L6OT84I7K9J.uasset'
+[2025.09.09-14.58.12:857][882]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/0/SO/LQI4OVRG3H2GSEOA8C4242
+[2025.09.09-14.58.12:858][882]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/LQI4OVRG3H2GSEOA8C42420170230F4F1109E36FDDDAA2FDDCB99D.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/0/SO/LQI4OVRG3H2GSEOA8C4242.uasset'
+[2025.09.09-14.58.12:861][882]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.12:862][882]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_2 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.12:863][882]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_4 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.12:864][882]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_6 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.12:864][882]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_20 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.12:865][882]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_22 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.12:865][882]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_2 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.12:866][882]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.12:884][882]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/4/V0/818B1KQ34RLSUJL68GX0KE
+[2025.09.09-14.58.12:884][882]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/818B1KQ34RLSUJL68GX0KE8B1B30364A429509166E0D9472DA4DEA.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/4/V0/818B1KQ34RLSUJL68GX0KE.uasset'
+[2025.09.09-14.58.12:888][882]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_1_0.Weightmap_2 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.12:957][882]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/9/BS/DSIB4GAQJ4Z448D25IFJCJ
+[2025.09.09-14.58.12:958][882]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/DSIB4GAQJ4Z448D25IFJCJD6085FF54111C7799FAC78BB5CFF660E.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/9/BS/DSIB4GAQJ4Z448D25IFJCJ.uasset'
+[2025.09.09-14.58.12:973][882]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/C/3P/J6E9UD3OKM1YF6BVSKPUM0
+[2025.09.09-14.58.12:973][882]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/J6E9UD3OKM1YF6BVSKPUM0D4C812274E3FFD963E4160A686C24D3B.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/C/3P/J6E9UD3OKM1YF6BVSKPUM0.uasset'
+[2025.09.09-14.58.12:980][882]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/7/GV/7HTB9SS3X61ZM92H5OSLP7
+[2025.09.09-14.58.12:981][882]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/7HTB9SS3X61ZM92H5OSLP72647F76E474FE1B17112F48561E27D58.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/7/GV/7HTB9SS3X61ZM92H5OSLP7.uasset'
+[2025.09.09-14.58.13:080][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 510.329 ms (total: 3.10 sec)
+[2025.09.09-14.58.13:130][882]LogContentValidation: Display: Starting to validate 6 assets
+[2025.09.09-14.58.13:130][882]LogContentValidation: Enabled validators:
+[2025.09.09-14.58.13:130][882]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.09-14.58.13:130][882]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.09-14.58.13:130][882]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.09-14.58.13:130][882]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.09-14.58.13:130][882]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.09-14.58.13:130][882]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.09-14.58.13:130][882]AssetCheck: /Game/dagsscen Validating asset
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: ================================================
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Total job queries 3 070, among them cache hits 1 471 (47.92%), DDC hits 778 (25.34%), Duplicates 499 (16.25%)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Tracking 1 100 distinct input hashes that result in 650 distinct outputs (59.09%)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: RAM used: 9,53 MiB of 1,60 GiB budget. Usage: 0.58%
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Shaders Compiled: 203
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Jobs assigned 203, completed 203 (100%)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Average time worker was idle: 705.62 s
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Time job spent in pending queue: average 0.71 s, longest 4.10 s
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Job execution time: average 5.13 s, max 12.16 s
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Job life time (pending + execution): average 5.83 s, max 13.73
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Shader code size: total 3,175 MiB, numShaders 203, average 16,016 KiB, min 2,105 KiB, max 52,27 KiB
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.37 s
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.15%
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Jobs were issued in 103 batches (only local compilation was used), average 1.97 jobs/batch
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Average processing rate: 7.15 jobs/sec
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Total thread time: 202,209 s
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Total thread preprocess time: 80,795 s
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Percentage time preprocessing: 39.96%
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Effective parallelization: 7.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.445438
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 3.50 sec, max 3.66 sec, min 3.34 sec)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy (compiled    3 times, average 3.09 sec, max 3.74 sec, min 2.21 sec)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 3.09 sec, max 3.70 sec, min 2.22 sec)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: TBasePassCSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 3.07 sec, max 3.58 sec, min 2.26 sec)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display:       TBasePassCSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 3.03 sec, max 3.74 sec, min 2.33 sec)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.67% of total time (compiled   13 times, average 1.66 sec, max 2.67 sec, min 0.71 sec)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display:                                                 FLumenCardCS - 6.97% of total time (compiled    5 times, average 2.82 sec, max 2.87 sec, min 2.71 sec)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 6.45% of total time (compiled    9 times, average 1.45 sec, max 2.59 sec, min 0.75 sec)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 6.45% of total time (compiled    8 times, average 1.63 sec, max 2.67 sec, min 0.93 sec)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.83% of total time (compiled    5 times, average 1.95 sec, max 2.93 sec, min 1.20 sec)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: === Material stats ===
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Materials Translated:    283
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Material Translation Only: 0.19 s (77%)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: Material Cache Hits: 74 (26%)
+[2025.09.09-14.58.16:187][160]LogShaderCompilers: Display: ================================================
+[2025.09.09-14.58.17:204][255]Cmd: TRANSACTION UNDO
+[2025.09.09-14.58.17:204][255]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.09.09-14.58.24:208][867]Cmd: TRANSACTION UNDO
+[2025.09.09-14.58.24:208][867]LogEditorTransaction: Undo Landscape Editing: Erase
+[2025.09.09-14.58.24:214][867]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_5 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.24:215][867]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.25:015][904]Cmd: TRANSACTION UNDO
+[2025.09.09-14.58.25:015][904]LogEditorTransaction: Undo Landscape Editing: Erase
+[2025.09.09-14.58.25:023][904]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.29:863][369]Cmd: TRANSACTION UNDO
+[2025.09.09-14.58.29:863][369]LogEditorTransaction: Undo Landscape Editing: Erase
+[2025.09.09-14.58.29:874][369]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.33:977][722]Cmd: TRANSACTION UNDO
+[2025.09.09-14.58.33:977][722]LogEditorTransaction: Undo Landscape Editing: Erase
+[2025.09.09-14.58.33:985][722]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_5 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.58.33:985][722]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.20:026][775]Cmd: TRANSACTION UNDO
+[2025.09.09-14.59.20:026][775]LogEditorTransaction: Undo Landscape Editing: Paint
+[2025.09.09-14.59.20:038][775]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0 : the proxy's root component isn't properly set or registered
+[2025.09.09-14.59.20:039][775]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0 : the proxy's root component isn't properly set or registered
+[2025.09.09-14.59.20:039][775]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0 : the proxy's root component isn't properly set or registered
+[2025.09.09-14.59.20:039][775]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0 : the proxy's root component isn't properly set or registered
+[2025.09.09-14.59.20:048][775]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.20:048][775]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_22 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.21:191][805]Cmd: TRANSACTION UNDO
+[2025.09.09-14.59.21:191][805]LogEditorTransaction: Undo Landscape Editing: Paint
+[2025.09.09-14.59.21:220][805]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.21:221][805]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_20 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.21:221][805]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_22 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.33:942][798]LogLandscape: Warning: Landscape component /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.LandscapeComponent_0 is not spatially aligned with the group grid (3341707), seam artifacts may appear.
+[2025.09.09-14.59.34:930][890]Cmd: TRANSACTION UNDO
+[2025.09.09-14.59.34:930][890]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.09.09-14.59.34:937][890]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.34:938][890]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.54:813][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.09-14.59.54:876][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.09.09-14.59.54:900][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.09.09-14.59.54:917][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.09.09-14.59.54:937][668]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/0/SO/LQI4OVRG3H2GSEOA8C4242
+[2025.09.09-14.59.54:938][668]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/LQI4OVRG3H2GSEOA8C4242CE1638B2426A3FD9A58F76887C7BC56A.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/0/SO/LQI4OVRG3H2GSEOA8C4242.uasset'
+[2025.09.09-14.59.54:941][668]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.54:943][668]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.54:943][668]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_2 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.54:944][668]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_3 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.54:945][668]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_4 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.54:946][668]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_5 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.54:946][668]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_6 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.54:947][668]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Heightmap_7 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.54:948][668]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_20 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.54:949][668]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_22 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.54:949][668]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_2 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.54:950][668]LogTexture: Display: Building textures: /Game/dagsscen.dagsscen:PersistentLevel.LandscapeStreamingProxy_0WUD6QR4FYWV80UU0URLUBI1M_62_0_0_0.Weightmap_0 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2025.09.09-14.59.54:968][668]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/4/V0/818B1KQ34RLSUJL68GX0KE
+[2025.09.09-14.59.54:969][668]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/818B1KQ34RLSUJL68GX0KE5FA9D72E4C7A7227750049809006793A.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/4/V0/818B1KQ34RLSUJL68GX0KE.uasset'
+[2025.09.09-14.59.54:986][668]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/9/BS/DSIB4GAQJ4Z448D25IFJCJ
+[2025.09.09-14.59.54:987][668]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/DSIB4GAQJ4Z448D25IFJCJ20EBA9B34E5D1996C02564B751848820.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/9/BS/DSIB4GAQJ4Z448D25IFJCJ.uasset'
+[2025.09.09-14.59.54:995][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.412 ms (total: 3.28 sec)
+[2025.09.09-14.59.55:042][668]LogContentValidation: Display: Starting to validate 3 assets
+[2025.09.09-14.59.55:042][668]LogContentValidation: Enabled validators:
+[2025.09.09-14.59.55:042][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.09-14.59.55:042][668]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.09-14.59.55:042][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.09-14.59.55:042][668]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.09-14.59.55:042][668]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.09-14.59.55:042][668]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.09-14.59.55:042][668]AssetCheck: /Game/dagsscen Validating asset
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: ================================================
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Total job queries 3 184, among them cache hits 1 472 (46.23%), DDC hits 778 (24.43%), Duplicates 552 (17.34%)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Tracking 1 160 distinct input hashes that result in 689 distinct outputs (59.40%)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: RAM used: 10,07 MiB of 1,60 GiB budget. Usage: 0.61%
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Shaders Compiled: 263
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Jobs assigned 263, completed 263 (100%)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Average time worker was idle: 549.43 s
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Time job spent in pending queue: average 0.68 s, longest 4.10 s
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Job execution time: average 4.67 s, max 12.16 s
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Job life time (pending + execution): average 5.36 s, max 13.73
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Shader code size: total 3,987 MiB, numShaders 263, average 15,524 KiB, min 2,105 KiB, max 52,27 KiB
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.95 s
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.26%
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Jobs were issued in 134 batches (only local compilation was used), average 1.96 jobs/batch
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Average processing rate: 7.75 jobs/sec
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Total thread time: 264,077 s
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Total thread preprocess time: 84,394 s
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Percentage time preprocessing: 31.96%
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Effective parallelization: 7.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.486206
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy (compiled    3 times, average 3.39 sec, max 3.66 sec, min 3.16 sec)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    4 times, average 3.10 sec, max 3.70 sec, min 2.22 sec)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy (compiled    4 times, average 3.09 sec, max 3.74 sec, min 2.21 sec)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: TBasePassCSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 3.06 sec, max 3.58 sec, min 2.26 sec)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display:       TBasePassCSFCachedVolumeIndirectLightingPolicySkylight (compiled    3 times, average 3.05 sec, max 3.74 sec, min 2.33 sec)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.96% of total time (compiled   16 times, average 1.64 sec, max 2.67 sec, min 0.71 sec)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 6.71% of total time (compiled   11 times, average 1.61 sec, max 2.67 sec, min 0.93 sec)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 6.53% of total time (compiled   12 times, average 1.44 sec, max 2.59 sec, min 0.75 sec)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display:                                                 FLumenCardCS - 6.16% of total time (compiled    6 times, average 2.71 sec, max 2.87 sec, min 2.17 sec)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.73% of total time (compiled    7 times, average 1.79 sec, max 2.93 sec, min 1.20 sec)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: === Material stats ===
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Materials Translated:    284
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Material Translation Only: 0.19 s (77%)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: Material Cache Hits: 74 (26%)
+[2025.09.09-15.01.16:198][737]LogShaderCompilers: Display: ================================================
+[2025.09.09-15.01.28:784][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.09-15.01.28:866][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.09.09-15.01.28:883][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.09.09-15.01.28:899][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.09.09-15.01.28:909][928]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/4/DJ/AQ7PG3CBSQ0L6OT84I7K9J
+[2025.09.09-15.01.28:909][928]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/AQ7PG3CBSQ0L6OT84I7K9JA770E4AE4E1BD68B234554AFAA51C274.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/4/DJ/AQ7PG3CBSQ0L6OT84I7K9J.uasset'
+[2025.09.09-15.01.28:928][928]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/4/V0/818B1KQ34RLSUJL68GX0KE
+[2025.09.09-15.01.28:928][928]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/818B1KQ34RLSUJL68GX0KE4594B3B6410F62F25647079C21700D8F.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/4/V0/818B1KQ34RLSUJL68GX0KE.uasset'
+[2025.09.09-15.01.28:947][928]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/9/BS/DSIB4GAQJ4Z448D25IFJCJ
+[2025.09.09-15.01.28:947][928]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/DSIB4GAQJ4Z448D25IFJCJFF45ED314CA2070BE1F8D48601D21C95.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/9/BS/DSIB4GAQJ4Z448D25IFJCJ.uasset'
+[2025.09.09-15.01.28:954][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.340 ms (total: 3.46 sec)
+[2025.09.09-15.01.28:983][928]LogContentValidation: Display: Starting to validate 3 assets
+[2025.09.09-15.01.28:983][928]LogContentValidation: Enabled validators:
+[2025.09.09-15.01.28:983][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.09-15.01.28:983][928]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.09-15.01.28:983][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.09-15.01.28:983][928]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.09-15.01.28:983][928]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.09-15.01.28:983][928]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.09-15.01.28:984][928]AssetCheck: /Game/dagsscen Validating asset
+[2025.09.09-15.01.32:714][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.09.09-15.01.32:755][288]LogStall: Shutdown...
+[2025.09.09-15.01.32:755][288]LogStall: Shutdown complete.
+[2025.09.09-15.01.32:784][288]LogSlate: Window 'DSV_3DR - Unreal Editor' being destroyed
+[2025.09.09-15.01.33:203][288]Cmd: QUIT_EDITOR
+[2025.09.09-15.01.33:203][289]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.09-15.01.33:208][289]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.09-15.01.33:208][289]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.09-15.01.33:208][289]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.09-15.01.33:213][289]LogWorld: UWorld::CleanupWorld for dagsscen, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-15.01.33:218][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-15.01.33:218][289]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/dagsscen.dagsscen
+[2025.09.09-15.01.33:224][289]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.09-15.01.33:224][289]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.09.09-15.01.33:225][289]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.09-15.01.33:240][289]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-15.01.33:240][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-15.01.33:241][289]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-15.01.33:241][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-15.01.33:241][289]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-15.01.33:241][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-15.01.33:241][289]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-15.01.33:241][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-15.01.33:241][289]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-15.01.33:241][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-15.01.33:241][289]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-15.01.33:241][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-15.01.33:241][289]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-15.01.33:241][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-15.01.33:241][289]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-15.01.33:241][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-15.01.33:241][289]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.09.09-15.01.33:241][289]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.09-15.01.33:247][289]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.09.09-15.01.33:248][289]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.09-15.01.33:248][289]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.09-15.01.33:248][289]LogAudio: Display: Audio Device unregistered from world 'dagsscen'.
+[2025.09.09-15.01.33:248][289]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.09-15.01.33:249][289]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.09.09-15.01.33:252][289]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.09.09-15.01.33:259][289]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.09-15.01.33:259][289]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.09-15.01.33:259][289]LogWindowsTextInputMethodSystem: Activated input method: Swedish (Sweden) - (Keyboard).
+[2025.09.09-15.01.33:262][289]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.09-15.01.33:265][289]LogExit: Preparing to exit.
+[2025.09.09-15.01.33:331][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.09.09-15.01.33:877][289]LogEditorDataStorage: Deinitializing
+[2025.09.09-15.01.33:976][289]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.09-15.01.34:020][289]LogExit: Editor shut down
+[2025.09.09-15.01.34:024][289]LogExit: Transaction tracking system shut down
+[2025.09.09-15.01.34:187][289]LogExit: Object subsystem successfully closed.
+[2025.09.09-15.01.34:248][289]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.09-15.01.34:371][289]LogMemoryProfiler: Shutdown
+[2025.09.09-15.01.34:371][289]LogNetworkingProfiler: Shutdown
+[2025.09.09-15.01.34:371][289]LoadingProfiler: Shutdown
+[2025.09.09-15.01.34:371][289]LogTimingProfiler: Shutdown
+[2025.09.09-15.01.34:372][289]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.09.09-15.01.34:372][289]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.09.09-15.01.34:700][289]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.09.09-15.01.34:704][289]LogNFORDenoise: NFORDenoise function shutting down
+[2025.09.09-15.01.34:704][289]RenderDocPlugin: plugin has been unloaded.
+[2025.09.09-15.01.34:737][289]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.09.09-15.01.34:737][289]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA67F7199-4D40-587B-F130-E89836CC1655%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=1b44ca8f42606900d8e5da8d7162e423%7Cc56daecc032249d6af00ade025cb6d2b%7C77bb57c5-c36a-4776-8f05-f3dcf44d7f8d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.09.09-15.01.35:278][289]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.09.09-15.01.35:280][289]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.09.09-15.01.35:280][289]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.09.09-15.01.35:280][289]LogPakFile: Destroying PakPlatformFile
+[2025.09.09-15.01.36:324][289]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.09.09-15.01.36:371][289]LogExit: Exiting.
+[2025.09.09-15.01.36:388][289]Log file closed, 09/09/25 17:01:36
