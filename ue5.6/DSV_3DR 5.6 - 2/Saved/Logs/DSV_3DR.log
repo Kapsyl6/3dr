@@ -1426,3 +1426,73 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.10-10.22.45:758][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
 [2025.09.10-10.22.45:768][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
 [2025.09.10-10.22.45:780][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.972 ms (total: 520.086 ms)
+[2025.09.10-10.23.04:997][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 335.748138
+[2025.09.10-10.23.05:997][405]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-10.23.05:997][405]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 336.414734, Update Interval: 302.490295
+[2025.09.10-10.23.24:688][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-10.23.24:754][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.09.10-10.23.24:785][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.09.10-10.23.24:814][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.09.10-10.23.24:824][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.536 ms (total: 655.622 ms)
+[2025.09.10-10.23.26:641][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.09.10-10.23.28:157][822]LogSlate: Window 'Save Content' being destroyed
+[2025.09.10-10.23.28:184][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-10.23.28:239][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/SM_roofTileCutout] ([1] browsable assets)...
+[2025.09.10-10.23.28:292][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/SM_roofTileCutout.SM_roofTileCutout]
+[2025.09.10-10.23.28:292][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/SM_roofTileCutout]
+[2025.09.10-10.23.28:292][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_roofTileCutout" FILE="../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/Meshes/SM_roofTileCutout.uasset" SILENT=true
+[2025.09.10-10.23.28:307][822]LogSavePackage: Moving output files for package: /Game/Meshes/SM_roofTileCutout
+[2025.09.10-10.23.28:307][822]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/SM_roofTileCutout11E37EC74E2D6A291BEAE3ABA5A0B7D4.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/Meshes/SM_roofTileCutout.uasset'
+[2025.09.10-10.23.28:308][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/SM_roofWall] ([1] browsable assets)...
+[2025.09.10-10.23.28:321][822]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Meshes/SM_roofWall.SM_roofWall]
+[2025.09.10-10.23.28:321][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/SM_roofWall]
+[2025.09.10-10.23.28:321][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_roofWall" FILE="../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/Meshes/SM_roofWall.uasset" SILENT=true
+[2025.09.10-10.23.28:339][822]LogSavePackage: Moving output files for package: /Game/Meshes/SM_roofWall
+[2025.09.10-10.23.28:340][822]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/SM_roofWall95EE54404A87C93199727DA687455A0E.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/Meshes/SM_roofWall.uasset'
+[2025.09.10-10.23.28:341][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/SM_roundWIndow] ([1] browsable assets)...
+[2025.09.10-10.23.28:351][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/SM_roundWIndow.SM_roundWIndow]
+[2025.09.10-10.23.28:351][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/SM_roundWIndow]
+[2025.09.10-10.23.28:351][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_roundWIndow" FILE="../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/Meshes/SM_roundWIndow.uasset" SILENT=true
+[2025.09.10-10.23.28:366][822]LogSavePackage: Moving output files for package: /Game/Meshes/SM_roundWIndow
+[2025.09.10-10.23.28:366][822]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/SM_roundWIndowA075958F46DDB2012FB2BE9009BE6201.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/Meshes/SM_roundWIndow.uasset'
+[2025.09.10-10.23.28:367][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/SM_smallWallDiagonal] ([1] browsable assets)...
+[2025.09.10-10.23.28:376][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/SM_smallWallDiagonal.SM_smallWallDiagonal]
+[2025.09.10-10.23.28:376][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/SM_smallWallDiagonal]
+[2025.09.10-10.23.28:376][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_smallWallDiagonal" FILE="../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/Meshes/SM_smallWallDiagonal.uasset" SILENT=true
+[2025.09.10-10.23.28:389][822]LogSavePackage: Moving output files for package: /Game/Meshes/SM_smallWallDiagonal
+[2025.09.10-10.23.28:389][822]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/SM_smallWallDiagonalFCCB058F4F1E0601ABEFA1A72080602C.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/Meshes/SM_smallWallDiagonal.uasset'
+[2025.09.10-10.23.28:398][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 213.497 ms (total: 869.120 ms)
+[2025.09.10-10.23.28:436][822]LogContentValidation: Display: Starting to validate 4 assets
+[2025.09.10-10.23.28:436][822]LogContentValidation: Enabled validators:
+[2025.09.10-10.23.28:436][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-10.23.28:436][822]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-10.23.28:436][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-10.23.28:436][822]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-10.23.28:436][822]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-10.23.28:436][822]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-10.23.28:437][822]AssetCheck: /Game/Meshes/SM_roofTileCutout Validating asset
+[2025.09.10-10.23.28:437][822]AssetCheck: /Game/Meshes/SM_roofWall Validating asset
+[2025.09.10-10.23.28:437][822]AssetCheck: /Game/Meshes/SM_roundWIndow Validating asset
+[2025.09.10-10.23.28:437][822]AssetCheck: /Game/Meshes/SM_smallWallDiagonal Validating asset
+[2025.09.10-10.23.28:460][822]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.10-10.28.11:498][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 642.246216
+[2025.09.10-10.28.12:497][845]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-10.28.12:497][845]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 642.913025, Update Interval: 302.246765
+[2025.09.10-10.33.19:533][766]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 950.282410
+[2025.09.10-10.33.20:534][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-10.33.20:534][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 950.948975, Update Interval: 322.824799
+[2025.09.10-10.38.58:900][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1289.646118
+[2025.09.10-10.38.59:900][787]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-10.38.59:900][787]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1290.312866, Update Interval: 301.554626
+[2025.09.10-10.44.30:595][779]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1621.338379
+[2025.09.10-10.44.31:597][782]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-10.44.31:597][782]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1622.005127, Update Interval: 310.019836
+[2025.09.10-10.50.38:293][882]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1989.032349
+[2025.09.10-10.50.39:292][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-10.50.39:292][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1989.698975, Update Interval: 307.608276
+[2025.09.10-10.56.31:992][943]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2342.730713
+[2025.09.10-10.56.32:992][946]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-10.56.32:992][946]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2343.397461, Update Interval: 320.286865
+[2025.09.10-11.02.36:035][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2706.770996
+[2025.09.10-11.02.37:034][ 38]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-11.02.37:034][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2707.437744, Update Interval: 340.004272
