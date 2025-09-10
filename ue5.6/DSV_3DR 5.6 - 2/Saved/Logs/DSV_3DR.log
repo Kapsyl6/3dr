@@ -1496,3 +1496,515 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.10-11.02.36:035][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2706.770996
 [2025.09.10-11.02.37:034][ 38]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.10-11.02.37:034][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2707.437744, Update Interval: 340.004272
+[2025.09.10-11.07.24:533][563]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.07.51:545][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_roundWIndow.SM_roundWIndow
+[2025.09.10-11.07.51:545][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_roundWIndow.SM_roundWIndow
+[2025.09.10-11.07.51:545][723]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_roundWIndow.SM_roundWIndow as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_2
+[2025.09.10-11.07.54:604][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.09.10-11.07.54:606][ 45]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.09.10-11.09.05:218][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.09.10-11.09.05:229][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/dagsscen/4/17/OYQ8EE1B71XQC2HTMKHYGV_Auto1
+[2025.09.10-11.09.05:230][377]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/OYQ8EE1B71XQC2HTMKHYGV_Auto180B93DD84D01022835858DA3F803B13D.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/Autosaves/Game/__ExternalActors__/dagsscen/4/17/OYQ8EE1B71XQC2HTMKHYGV_Auto1.uasset'
+[2025.09.10-11.09.05:237][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/dagsscen/4/LT/DSBN1KF4DEAR3R1JIO5OKY_Auto1
+[2025.09.10-11.09.05:237][377]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/DSBN1KF4DEAR3R1JIO5OKY_Auto14B59A4A348BAF3130F43F99E43EDFFC1.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/Autosaves/Game/__ExternalActors__/dagsscen/4/LT/DSBN1KF4DEAR3R1JIO5OKY_Auto1.uasset'
+[2025.09.10-11.09.05:243][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/dagsscen/A/20/U7M25Q4WWVP34LFLR3TU8O_Auto1
+[2025.09.10-11.09.05:244][377]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/U7M25Q4WWVP34LFLR3TU8O_Auto1E53C63EC468DBE39968FA789BC1D61FE.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/Autosaves/Game/__ExternalActors__/dagsscen/A/20/U7M25Q4WWVP34LFLR3TU8O_Auto1.uasset'
+[2025.09.10-11.09.05:251][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/dagsscen/D/NO/UDCMMOXFBO0SID0947YLRT_Auto1
+[2025.09.10-11.09.05:251][377]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/UDCMMOXFBO0SID0947YLRT_Auto1EF106B024828100B57019699905E6F40.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/Autosaves/Game/__ExternalActors__/dagsscen/D/NO/UDCMMOXFBO0SID0947YLRT_Auto1.uasset'
+[2025.09.10-11.09.05:257][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/dagsscen/E/58/VI4CWD09HIK5SBFP1056BP_Auto1
+[2025.09.10-11.09.05:257][377]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/VI4CWD09HIK5SBFP1056BP_Auto1D399ADB2473B540274BB71AFFA2C170F.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/Autosaves/Game/__ExternalActors__/dagsscen/E/58/VI4CWD09HIK5SBFP1056BP_Auto1.uasset'
+[2025.09.10-11.09.05:258][377]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/dagsscen' took 0.066
+[2025.09.10-11.09.05:258][377]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.066
+[2025.09.10-11.09.13:604][ 74]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3104.355225
+[2025.09.10-11.09.13:784][ 89]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-11.09.13:784][ 89]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3104.522461, Update Interval: 353.558167
+[2025.09.10-11.10.42:701][456]Cmd: DELETE
+[2025.09.10-11.10.42:701][456]Cmd: ACTOR DELETE
+[2025.09.10-11.10.44:382][456]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.09.10-11.10.44:388][456]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.10-11.10.46:985][456]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.09.10-11.10.46:992][456]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.10-11.10.47:451][456]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.09.10-11.10.47:456][456]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.10-11.10.47:884][456]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.09.10-11.10.47:889][456]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.10-11.10.47:903][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.09.10-11.10.47:904][456]LogEditorActor: Deleted 4 Actors (0.021 secs)
+[2025.09.10-11.10.51:244][741]LogStreaming: Display: FlushAsyncLoading(647): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.10-11.10.53:545][890]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.09.10-11.10.55:984][130]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.09.10-11.11.02:031][766]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.09.10-11.11.02:031][766]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.09.10-11.11.02:032][766]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_UAID_FC349766EF94A58D02_1695137437
+[2025.09.10-11.11.02:033][766]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_UAID_FC349766EF94A58D02_1695137437
+[2025.09.10-11.11.27:247][ 52]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.12.00:131][750]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.15.51:822][148]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3502.558594
+[2025.09.10-11.15.52:822][151]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-11.15.52:822][151]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3503.225342, Update Interval: 310.312805
+[2025.09.10-11.19.05:910][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.10-11.19.05:920][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/dagsscen/2/UU/P90NV2685TNOVQB39YY5L6_Auto2
+[2025.09.10-11.19.05:920][730]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/P90NV2685TNOVQB39YY5L6_Auto21C557844471C79AB80BC97824C0A6BB7.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/Autosaves/Game/__ExternalActors__/dagsscen/2/UU/P90NV2685TNOVQB39YY5L6_Auto2.uasset'
+[2025.09.10-11.19.05:921][730]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/dagsscen' took 0.053
+[2025.09.10-11.19.05:921][730]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2025.09.10-11.19.26:542][793]LogDerivedDataCache: C:/Users/kagu7440/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.10-11.21.37:849][186]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3848.584473
+[2025.09.10-11.21.38:849][189]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-11.21.38:849][189]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3849.250977, Update Interval: 323.498657
+[2025.09.10-11.27.59:217][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4229.956543
+[2025.09.10-11.28.00:218][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-11.28.00:218][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4230.623047, Update Interval: 307.154144
+[2025.09.10-11.33.29:931][754]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.33.35:723][332]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.33.44:773][141]Cmd: DUPLICATE
+[2025.09.10-11.33.44:773][141]Cmd: ACTOR DUPLICATE
+[2025.09.10-11.33.55:899][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4586.632812
+[2025.09.10-11.33.56:069][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-11.33.56:069][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4586.790527, Update Interval: 358.106628
+[2025.09.10-11.33.56:453][225]Cmd: DUPLICATE
+[2025.09.10-11.33.56:453][225]Cmd: ACTOR DUPLICATE
+[2025.09.10-11.34.31:935][291]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_smallWallDiagonal.SM_smallWallDiagonal
+[2025.09.10-11.34.31:935][291]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_smallWallDiagonal.SM_smallWallDiagonal
+[2025.09.10-11.34.31:936][291]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_smallWallDiagonal.SM_smallWallDiagonal as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_3
+[2025.09.10-11.34.33:126][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.10-11.34.33:129][397]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.09.10-11.34.33:134][397]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_smallWallDiagonal.SM_smallWallDiagonal
+[2025.09.10-11.34.33:134][397]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_smallWallDiagonal.SM_smallWallDiagonal
+[2025.09.10-11.34.33:136][397]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_smallWallDiagonal.SM_smallWallDiagonal as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_UAID_FC349766EF94A68D02_2032498616
+[2025.09.10-11.34.44:474][430]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_smallWallDiagonal.SM_smallWallDiagonal
+[2025.09.10-11.34.44:474][430]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_smallWallDiagonal.SM_smallWallDiagonal
+[2025.09.10-11.34.44:475][430]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_smallWallDiagonal.SM_smallWallDiagonal as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_4
+[2025.09.10-11.34.45:596][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.09.10-11.34.45:599][539]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.09.10-11.34.45:603][539]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_smallWallDiagonal.SM_smallWallDiagonal
+[2025.09.10-11.34.45:603][539]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_smallWallDiagonal.SM_smallWallDiagonal
+[2025.09.10-11.34.45:605][539]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_smallWallDiagonal.SM_smallWallDiagonal as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_UAID_FC349766EF94A68D02_2044967617
+[2025.09.10-11.34.47:570][712]Cmd: TRANSACTION UNDO
+[2025.09.10-11.34.47:570][712]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.34.48:167][726]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.35.34:087][886]Cmd: TRANSACTION UNDO
+[2025.09.10-11.35.34:087][886]LogEditorTransaction: Undo Clicking Background
+[2025.09.10-11.35.34:591][893]Cmd: TRANSACTION UNDO
+[2025.09.10-11.35.34:591][893]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.35.35:061][929]Cmd: TRANSACTION UNDO
+[2025.09.10-11.35.35:061][929]LogEditorTransaction: Undo Clicking on Elements
+[2025.09.10-11.35.45:237][793]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.35.48:434][ 42]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.36.11:515][ 79]Cmd: DUPLICATE
+[2025.09.10-11.36.11:515][ 79]Cmd: ACTOR DUPLICATE
+[2025.09.10-11.37.46:322][636]Cmd: TRANSACTION UNDO
+[2025.09.10-11.37.46:322][636]LogEditorTransaction: Undo Set Scale
+[2025.09.10-11.37.46:667][642]Cmd: TRANSACTION UNDO
+[2025.09.10-11.37.46:667][642]LogEditorTransaction: Undo Set Scale
+[2025.09.10-11.37.47:016][660]Cmd: TRANSACTION UNDO
+[2025.09.10-11.37.47:016][660]LogEditorTransaction: Undo Set Scale
+[2025.09.10-11.39.16:480][576]Cmd: TRANSACTION UNDO
+[2025.09.10-11.39.16:480][576]LogEditorTransaction: Undo Set Scale
+[2025.09.10-11.39.16:941][584]Cmd: TRANSACTION UNDO
+[2025.09.10-11.39.16:941][584]LogEditorTransaction: Undo Set Scale
+[2025.09.10-11.39.21:249][954]Cmd: TRANSACTION UNDO
+[2025.09.10-11.39.21:249][954]LogEditorTransaction: Undo Scale Elements
+[2025.09.10-11.40.06:680][756]Cmd: TRANSACTION UNDO
+[2025.09.10-11.40.06:680][756]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.40.35:276][149]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4986.038086
+[2025.09.10-11.40.35:430][162]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-11.40.35:430][162]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4986.179688, Update Interval: 316.523926
+[2025.09.10-11.40.40:802][598]Cmd: DELETE
+[2025.09.10-11.40.40:802][598]Cmd: ACTOR DELETE
+[2025.09.10-11.40.40:806][598]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.09.10-11.40.40:821][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.10-11.40.40:823][598]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.09.10-11.41.08:566][101]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.41.39:675][851]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.41.49:196][721]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.41.53:117][ 42]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.42.25:348][870]Cmd: TRANSACTION UNDO
+[2025.09.10-11.42.25:348][870]LogEditorTransaction: Undo Set Scale
+[2025.09.10-11.42.32:018][405]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.44.08:042][824]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_wall.SM_wall
+[2025.09.10-11.44.08:042][824]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_wall.SM_wall
+[2025.09.10-11.44.08:042][824]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_wall.SM_wall as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_5
+[2025.09.10-11.44.08:885][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.09.10-11.44.08:889][893]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.09.10-11.44.08:893][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_wall.SM_wall
+[2025.09.10-11.44.08:893][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_wall.SM_wall
+[2025.09.10-11.44.08:895][893]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_wall.SM_wall as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_UAID_FC349766EF94A78D02_1534515805
+[2025.09.10-11.44.19:724][821]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.44.32:162][906]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.44.49:066][386]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.45.41:253][915]Cmd: DUPLICATE
+[2025.09.10-11.45.41:253][915]Cmd: ACTOR DUPLICATE
+[2025.09.10-11.45.49:349][665]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.46.12:821][825]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.46.23:857][849]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.46.29:889][383]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.46.48:257][ 21]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5359.021973
+[2025.09.10-11.46.48:426][ 37]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-11.46.48:426][ 37]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5359.181152, Update Interval: 337.757507
+[2025.09.10-11.47.00:954][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_roofTileCutout.SM_roofTileCutout
+[2025.09.10-11.47.00:954][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_roofTileCutout.SM_roofTileCutout
+[2025.09.10-11.47.00:955][131]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_roofTileCutout.SM_roofTileCutout as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_6
+[2025.09.10-11.47.04:049][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.10-11.47.04:052][452]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.09.10-11.47.04:057][452]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_roofTileCutout.SM_roofTileCutout
+[2025.09.10-11.47.04:057][452]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_roofTileCutout.SM_roofTileCutout
+[2025.09.10-11.47.04:059][452]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_roofTileCutout.SM_roofTileCutout as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_UAID_FC349766EF94A78D02_1709679810
+[2025.09.10-11.47.36:288][269]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.47.40:475][620]Cmd: TRANSACTION UNDO
+[2025.09.10-11.47.40:475][620]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.48.15:402][655]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.49.27:121][702]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.50.47:353][312]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.51.07:678][948]Cmd: TRANSACTION UNDO
+[2025.09.10-11.51.07:678][948]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.51.29:721][694]Cmd: TRANSACTION UNDO
+[2025.09.10-11.51.29:721][694]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.52.10:024][  5]Cmd: TRANSACTION UNDO
+[2025.09.10-11.52.10:024][  5]LogEditorTransaction: Undo Scale Elements
+[2025.09.10-11.53.11:415][282]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5742.173828
+[2025.09.10-11.53.11:584][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-11.53.11:584][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5742.331543, Update Interval: 339.291962
+[2025.09.10-11.53.32:972][ 70]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.54.25:424][476]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.54.25:424][476]Can't find target element.
+[2025.09.10-11.54.25:827][501]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.54.33:034][101]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.54.33:034][101]Can't find target element.
+[2025.09.10-11.55.07:595][962]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.07:595][962]LogEditorTransaction: Undo Clicking Background
+[2025.09.10-11.55.08:196][975]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.08:196][975]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.55.08:718][ 15]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.08:718][ 15]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.55.13:328][331]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.13:328][331]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.55.13:805][339]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.13:805][339]LogEditorTransaction: Undo Clicking on Elements
+[2025.09.10-11.55.26:609][345]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.26:609][345]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.55.31:264][684]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.31:264][684]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.55.39:780][319]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.39:780][319]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.55.41:384][402]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.41:384][402]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.55.56:754][675]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.56:754][675]LogEditorTransaction: Undo Clicking on Elements
+[2025.09.10-11.55.57:534][707]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.57:534][707]LogEditorTransaction: Undo Clicking on Elements
+[2025.09.10-11.55.57:912][730]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.57:913][730]LogEditorTransaction: Undo Clicking on Elements
+[2025.09.10-11.55.58:244][752]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.58:244][752]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.55.58:778][793]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.58:778][793]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.55.59:130][819]Cmd: TRANSACTION UNDO
+[2025.09.10-11.55.59:130][819]LogEditorTransaction: Undo Move Elements
+[2025.09.10-11.56.08:758][634]Cmd: TRANSACTION UNDO
+[2025.09.10-11.56.08:758][634]LogEditorTransaction: Undo Clicking Background
+[2025.09.10-11.56.09:324][643]Cmd: TRANSACTION UNDO
+[2025.09.10-11.56.09:324][643]LogEditorTransaction: Undo Set Scale
+[2025.09.10-11.56.26:512][ 62]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.56.41:459][294]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.57.15:985][127]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.57.19:068][386]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.57.24:990][879]Cmd: DELETE
+[2025.09.10-11.57.24:990][879]Cmd: ACTOR DELETE
+[2025.09.10-11.57.24:992][879]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.10-11.57.25:008][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.10-11.57.25:010][879]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.09.10-11.57.38:667][ 56]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.57.39:497][125]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.58.34:275][778]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.59.13:060][ 75]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.59.23:424][941]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.59.33:794][840]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.59.34:952][944]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-11.59.43:459][706]Cmd: TRANSACTION UNDO
+[2025.09.10-11.59.43:459][706]LogEditorTransaction: Undo Scale Elements
+[2025.09.10-11.59.47:076][972]Cmd: TRANSACTION UNDO
+[2025.09.10-11.59.47:076][972]LogEditorTransaction: Undo Scale Elements
+[2025.09.10-11.59.50:701][240]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6141.454590
+[2025.09.10-11.59.50:848][253]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-11.59.50:848][253]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6141.588867, Update Interval: 307.597290
+[2025.09.10-12.00.00:085][ 36]Cmd: TRANSACTION UNDO
+[2025.09.10-12.00.00:085][ 36]LogEditorTransaction: Undo Move Elements
+[2025.09.10-12.00.18:273][526]Cmd: DELETE
+[2025.09.10-12.00.18:273][526]Cmd: ACTOR DELETE
+[2025.09.10-12.00.18:276][526]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.10-12.00.18:289][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.10-12.00.18:292][526]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.09.10-12.00.50:277][249]Cmd: TRANSACTION UNDO
+[2025.09.10-12.00.50:277][249]LogEditorTransaction: Undo Set Scale
+[2025.09.10-12.01.29:723][606]Cmd: TRANSACTION UNDO
+[2025.09.10-12.01.29:723][606]LogEditorTransaction: Undo Set Scale
+[2025.09.10-12.01.33:316][867]Cmd: TRANSACTION UNDO
+[2025.09.10-12.01.33:316][867]LogEditorTransaction: Undo Set Scale
+[2025.09.10-12.02.14:362][461]Cmd: TRANSACTION UNDO
+[2025.09.10-12.02.14:362][461]LogEditorTransaction: Undo Set Scale
+[2025.09.10-12.02.16:186][580]Cmd: TRANSACTION UNDO
+[2025.09.10-12.02.16:186][580]LogEditorTransaction: Undo Set Scale
+[2025.09.10-12.02.17:793][710]Cmd: TRANSACTION UNDO
+[2025.09.10-12.02.17:793][710]LogEditorTransaction: Undo Set Scale
+[2025.09.10-12.02.19:576][857]Cmd: TRANSACTION UNDO
+[2025.09.10-12.02.19:576][857]LogEditorTransaction: Undo Set Scale
+[2025.09.10-12.02.42:937][477]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-12.03.09:692][704]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2025.09.10-12.03.09:692][704]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2025.09.10-12.03.43:665][636]Cmd: TRANSACTION UNDO
+[2025.09.10-12.03.43:665][636]LogEditorTransaction: Undo Set Scale
+[2025.09.10-12.03.45:245][734]Cmd: TRANSACTION UNDO
+[2025.09.10-12.03.45:245][734]LogEditorTransaction: Undo Set Scale
+[2025.09.10-12.04.16:908][428]Cmd: DUPLICATE
+[2025.09.10-12.04.16:908][428]Cmd: ACTOR DUPLICATE
+[2025.09.10-12.04.18:343][547]Cmd: TRANSACTION UNDO
+[2025.09.10-12.04.18:343][547]LogEditorTransaction: Undo Duplicate Elements
+[2025.09.10-12.05.21:711][863]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-12.05.30:605][548]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6481.337891
+[2025.09.10-12.05.30:748][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-12.05.30:748][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6481.468750, Update Interval: 337.709900
+[2025.09.10-12.05.41:533][399]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-12.05.52:762][251]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-12.06.31:808][440]Cmd: TRANSACTION UNDO
+[2025.09.10-12.06.31:808][440]LogEditorTransaction: Undo Rotate Elements
+[2025.09.10-12.06.44:946][416]Cmd: TRANSACTION UNDO
+[2025.09.10-12.06.44:946][416]LogEditorTransaction: Undo Rotate Elements
+[2025.09.10-12.07.11:462][517]Cmd: DELETE
+[2025.09.10-12.07.11:462][517]Cmd: ACTOR DELETE
+[2025.09.10-12.07.11:465][517]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.10-12.07.11:483][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.10-12.07.11:485][517]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.09.10-12.07.13:380][665]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Meshes/SM_wallDoor.SM_wallDoor
+[2025.09.10-12.07.13:380][665]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Meshes/SM_wallDoor.SM_wallDoor
+[2025.09.10-12.07.13:380][665]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Meshes/SM_wallDoor.SM_wallDoor as actor: SkeletalMeshActor /Game/dagsscen.dagsscen:PersistentLevel.SkeletalMeshActor_1
+[2025.09.10-12.07.13:381][665]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Meshes/SM_wallDoor.SM_wallDoor as actor: SkeletalMeshActor /Game/dagsscen.dagsscen:PersistentLevel.SkeletalMeshActor_1
+[2025.09.10-12.07.16:184][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.09.10-12.07.16:186][959]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.09.10-12.07.16:192][959]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Meshes/SM_wallDoor.SM_wallDoor
+[2025.09.10-12.07.16:192][959]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Meshes/SM_wallDoor.SM_wallDoor
+[2025.09.10-12.07.16:194][959]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Meshes/SM_wallDoor.SM_wallDoor as actor: SkeletalMeshActor /Game/dagsscen.dagsscen:PersistentLevel.SkeletalMeshActor_UAID_FC349766EF94A88D02_1848073099
+[2025.09.10-12.07.16:194][959]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Meshes/SM_wallDoor.SM_wallDoor as actor: SkeletalMeshActor /Game/dagsscen.dagsscen:PersistentLevel.SkeletalMeshActor_UAID_FC349766EF94A88D02_1848073099
+[2025.09.10-12.07.19:191][169]Cmd: TRANSACTION UNDO
+[2025.09.10-12.07.19:191][169]LogEditorTransaction: Undo Rotate Elements
+[2025.09.10-12.07.23:160][437]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-12.07.28:799][843]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-12.08.00:264][333]Cmd: DELETE
+[2025.09.10-12.08.00:264][333]Cmd: ACTOR DELETE
+[2025.09.10-12.08.00:267][333]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.10-12.08.00:268][333]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.10-12.08.00:282][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.09.10-12.08.00:285][333]LogEditorActor: Deleted 2 Actors (0.021 secs)
+[2025.09.10-12.08.02:087][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_wallWindow.SM_wallWindow
+[2025.09.10-12.08.02:087][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_wallWindow.SM_wallWindow
+[2025.09.10-12.08.02:088][471]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_wallWindow.SM_wallWindow as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_7
+[2025.09.10-12.08.03:263][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.09.10-12.08.03:267][587]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.09.10-12.08.03:272][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_wallWindow.SM_wallWindow
+[2025.09.10-12.08.03:272][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_wallWindow.SM_wallWindow
+[2025.09.10-12.08.03:273][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_wallWindow.SM_wallWindow as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_UAID_FC349766EF94A88D02_1895153101
+[2025.09.10-12.09.04:911][748]Cmd: DELETE
+[2025.09.10-12.09.04:911][748]Cmd: ACTOR DELETE
+[2025.09.10-12.09.04:913][748]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.10-12.09.04:914][748]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.10-12.09.04:929][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.09.10-12.09.04:932][748]LogEditorActor: Deleted 2 Actors (0.021 secs)
+[2025.09.10-12.09.07:238][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_wallWindow.SM_wallWindow
+[2025.09.10-12.09.07:238][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_wallWindow.SM_wallWindow
+[2025.09.10-12.09.07:239][924]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_wallWindow.SM_wallWindow as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_8
+[2025.09.10-12.09.08:398][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.09.10-12.09.08:400][ 34]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.09.10-12.09.08:406][ 34]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_wallWindow.SM_wallWindow
+[2025.09.10-12.09.08:406][ 34]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_wallWindow.SM_wallWindow
+[2025.09.10-12.09.08:408][ 34]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_wallWindow.SM_wallWindow as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_UAID_FC349766EF94A88D02_1960287103
+[2025.09.10-12.09.09:118][ 85]Cmd: DELETE
+[2025.09.10-12.09.09:118][ 85]Cmd: ACTOR DELETE
+[2025.09.10-12.09.09:121][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.10-12.09.09:134][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.09.10-12.09.09:136][ 85]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.09.10-12.09.20:789][ 63]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-12.09.41:792][795]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.10-12.10.02:307][521]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_roundWIndow.SM_roundWIndow
+[2025.09.10-12.10.02:307][521]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_roundWIndow.SM_roundWIndow
+[2025.09.10-12.10.02:307][521]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_roundWIndow.SM_roundWIndow as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_9
+[2025.09.10-12.10.05:647][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.09.10-12.10.05:649][870]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.09.10-12.10.05:653][870]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_roundWIndow.SM_roundWIndow
+[2025.09.10-12.10.05:653][870]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SM_roundWIndow.SM_roundWIndow
+[2025.09.10-12.10.05:655][870]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SM_roundWIndow.SM_roundWIndow as actor: StaticMeshActor /Game/dagsscen.dagsscen:PersistentLevel.StaticMeshActor_UAID_FC349766EF94A88D02_2017534106
+[2025.09.10-12.10.09:717][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-12.10.09:774][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.09.10-12.10.09:787][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.09.10-12.10.09:800][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.09.10-12.10.09:811][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/6/03/PV8E40SXXVX84XBU712OM9
+[2025.09.10-12.10.09:811][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/PV8E40SXXVX84XBU712OM9AA3CE695493060D4A257B1B72DE190A5.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/6/03/PV8E40SXXVX84XBU712OM9.uasset'
+[2025.09.10-12.10.09:819][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/8/NZ/P89U9PQNHQ0UVP4IHAS2O6
+[2025.09.10-12.10.09:820][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/P89U9PQNHQ0UVP4IHAS2O689A349354C14D5C6AE6C0885A40E83E5.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/8/NZ/P89U9PQNHQ0UVP4IHAS2O6.uasset'
+[2025.09.10-12.10.09:825][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/0/Z3/R09VGZ9FTDY4RBIW724L8L
+[2025.09.10-12.10.09:826][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/R09VGZ9FTDY4RBIW724L8LA04A3F0F4A3DE63FF1EB069DBABF797E.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/0/Z3/R09VGZ9FTDY4RBIW724L8L.uasset'
+[2025.09.10-12.10.09:833][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/2/T9/5LCV98GD716FVYT0V4YU6X
+[2025.09.10-12.10.09:833][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/5LCV98GD716FVYT0V4YU6XA0E7E70543EE440E0B800CBE44561E41.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/2/T9/5LCV98GD716FVYT0V4YU6X.uasset'
+[2025.09.10-12.10.09:839][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/0/LE/4XG7CZOA6W4QNVXV0L1S2Q
+[2025.09.10-12.10.09:840][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/4XG7CZOA6W4QNVXV0L1S2Q00E107C04013678EDEAF95BA499EDA8B.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/0/LE/4XG7CZOA6W4QNVXV0L1S2Q.uasset'
+[2025.09.10-12.10.09:846][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/2/UU/P90NV2685TNOVQB39YY5L6
+[2025.09.10-12.10.09:846][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/P90NV2685TNOVQB39YY5L6E067323149CA2D51237A668FA5BA3CEC.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/2/UU/P90NV2685TNOVQB39YY5L6.uasset'
+[2025.09.10-12.10.09:853][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/C/2P/TLQ9W521ZV7P9FE29OY6NY
+[2025.09.10-12.10.09:853][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/TLQ9W521ZV7P9FE29OY6NYDB3FAB584B81C2BDC9DFBDB196426AF4.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/C/2P/TLQ9W521ZV7P9FE29OY6NY.uasset'
+[2025.09.10-12.10.09:858][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/4/19/ESVIY7Y86W5PZRT0KPRYWA
+[2025.09.10-12.10.09:858][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/ESVIY7Y86W5PZRT0KPRYWA2239A88F4F1535DCE997368EC994C09A.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/4/19/ESVIY7Y86W5PZRT0KPRYWA.uasset'
+[2025.09.10-12.10.09:865][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/E/ED/EUPN03D3YK6JA4HTX8PKUU
+[2025.09.10-12.10.09:865][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/EUPN03D3YK6JA4HTX8PKUUA2ADD542436C496045F7D3B57160B581.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/E/ED/EUPN03D3YK6JA4HTX8PKUU.uasset'
+[2025.09.10-12.10.09:871][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/C/6M/T9RDY03U20LSB2CLE10NH0
+[2025.09.10-12.10.09:871][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/T9RDY03U20LSB2CLE10NH09955D1AD43A0E796C27CEE8C1BD4DACD.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/C/6M/T9RDY03U20LSB2CLE10NH0.uasset'
+[2025.09.10-12.10.09:877][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/0/92/0ADBOXSNWW1DRC5IO6W2TF
+[2025.09.10-12.10.09:877][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/0ADBOXSNWW1DRC5IO6W2TF802711DD49D4DFEDD5DA838791FA2F42.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/0/92/0ADBOXSNWW1DRC5IO6W2TF.uasset'
+[2025.09.10-12.10.09:883][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/1/R1/WC7J9YOLV2F1JLZDMITE30
+[2025.09.10-12.10.09:883][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/WC7J9YOLV2F1JLZDMITE30685595704FA689F461230391CE546205.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/1/R1/WC7J9YOLV2F1JLZDMITE30.uasset'
+[2025.09.10-12.10.09:889][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/6/9P/FIS6Y0V3AIXFRTIKHP0HIF
+[2025.09.10-12.10.09:889][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/FIS6Y0V3AIXFRTIKHP0HIF66352F1B4A8140E4BB30A9AA39416E49.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/6/9P/FIS6Y0V3AIXFRTIKHP0HIF.uasset'
+[2025.09.10-12.10.09:896][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/3/2J/5RA89QZABLZ8I8YXQTX5HT
+[2025.09.10-12.10.09:896][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/5RA89QZABLZ8I8YXQTX5HT64C5372C4B96030D0135D789979997B2.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/3/2J/5RA89QZABLZ8I8YXQTX5HT.uasset'
+[2025.09.10-12.10.09:901][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/D/F0/022LJ0BL35KR8T2S7LDLQO
+[2025.09.10-12.10.09:901][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/022LJ0BL35KR8T2S7LDLQOA0D2E6D945785F89CCE186B663A58A3D.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/D/F0/022LJ0BL35KR8T2S7LDLQO.uasset'
+[2025.09.10-12.10.09:907][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/B/2H/XN5GNAIC61PGKA29YOKUIX
+[2025.09.10-12.10.09:907][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/XN5GNAIC61PGKA29YOKUIX7FA272464B6941DD1F75AC97AF711866.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/B/2H/XN5GNAIC61PGKA29YOKUIX.uasset'
+[2025.09.10-12.10.09:913][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/B/FT/UA6TF2SS28RE05LP293L33
+[2025.09.10-12.10.09:913][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/UA6TF2SS28RE05LP293L332D7881A6421CDC1A8331F7B06254CB07.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/B/FT/UA6TF2SS28RE05LP293L33.uasset'
+[2025.09.10-12.10.09:920][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/A/A4/5FV4R40METCPXANYPHDXN4
+[2025.09.10-12.10.09:920][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/5FV4R40METCPXANYPHDXN42E9F6DB244BCF75FA1D7319193D302F5.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/A/A4/5FV4R40METCPXANYPHDXN4.uasset'
+[2025.09.10-12.10.09:926][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/3/QH/8IG0YEE8BZIHAA02RSLB26
+[2025.09.10-12.10.09:926][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/8IG0YEE8BZIHAA02RSLB26BEEC80534961E9C323F0CCA59EECE1F2.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/3/QH/8IG0YEE8BZIHAA02RSLB26.uasset'
+[2025.09.10-12.10.09:932][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/3/UG/UXBZ4WT43Y0M1IKU8RSLJS
+[2025.09.10-12.10.09:932][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/UXBZ4WT43Y0M1IKU8RSLJSDE0E5B20401E04CAF5851CBB4BC622E1.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/3/UG/UXBZ4WT43Y0M1IKU8RSLJS.uasset'
+[2025.09.10-12.10.09:938][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/0/3N/6X0JXGETH4JNKZ2MPYIKR2
+[2025.09.10-12.10.09:938][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/6X0JXGETH4JNKZ2MPYIKR2C54C1D494E001F4937FE3A989BD17D79.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/0/3N/6X0JXGETH4JNKZ2MPYIKR2.uasset'
+[2025.09.10-12.10.09:944][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/0/YR/XWDI5HOBT1RFLKMI36GJ68
+[2025.09.10-12.10.09:945][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/XWDI5HOBT1RFLKMI36GJ6830F92F534427AC4EDFCBB1ACCFBCCF7A.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/0/YR/XWDI5HOBT1RFLKMI36GJ68.uasset'
+[2025.09.10-12.10.09:950][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/A/BH/2IRPE0EMYX4V1JYMJQQ9EO
+[2025.09.10-12.10.09:950][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/2IRPE0EMYX4V1JYMJQQ9EO88FAB5B54C31C6A5B19949B87F905951.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/A/BH/2IRPE0EMYX4V1JYMJQQ9EO.uasset'
+[2025.09.10-12.10.09:957][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/C/G1/NZSR5PR2B4TG2GBF2UFP6T
+[2025.09.10-12.10.09:957][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/NZSR5PR2B4TG2GBF2UFP6TCDC1CBCE457DFB7BDC77EEAFCEBC75E4.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/C/G1/NZSR5PR2B4TG2GBF2UFP6T.uasset'
+[2025.09.10-12.10.09:965][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/8/0L/WIKZAUQ2POK1A8WJOS3FXT
+[2025.09.10-12.10.09:965][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/WIKZAUQ2POK1A8WJOS3FXT7C739DEA4C1BD28FFD3C5C9719C0A1CE.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/8/0L/WIKZAUQ2POK1A8WJOS3FXT.uasset'
+[2025.09.10-12.10.09:974][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/5/61/IH7728P8VJGZJ7QXBYO72W
+[2025.09.10-12.10.09:974][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/IH7728P8VJGZJ7QXBYO72WFA45F4FA49B8667EDF846DB1113E9EFD.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/5/61/IH7728P8VJGZJ7QXBYO72W.uasset'
+[2025.09.10-12.10.09:981][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/3/IA/BZT484627P07XFN142ZVBF
+[2025.09.10-12.10.09:981][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/BZT484627P07XFN142ZVBF79BA3D4A4D58998996AD4C9EFC296648.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/3/IA/BZT484627P07XFN142ZVBF.uasset'
+[2025.09.10-12.10.09:986][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/C/JJ/K9TG8I0R1WC7PU5N5RWP70
+[2025.09.10-12.10.09:986][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/K9TG8I0R1WC7PU5N5RWP70C7CBAF564639FCBD8CDFA396DABF9A1C.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/C/JJ/K9TG8I0R1WC7PU5N5RWP70.uasset'
+[2025.09.10-12.10.09:992][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/D/Y5/YXG6XBI5MAK8OW7A0TCAIC
+[2025.09.10-12.10.09:992][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/YXG6XBI5MAK8OW7A0TCAIC4A6A138E493059E79747548A7F4E93F4.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/D/Y5/YXG6XBI5MAK8OW7A0TCAIC.uasset'
+[2025.09.10-12.10.09:998][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/6/MM/YHOVYH0UE39Y5JO8GKPZ6F
+[2025.09.10-12.10.09:998][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/YHOVYH0UE39Y5JO8GKPZ6FF43BDA6747A4AF370C6721927C81BEA2.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/6/MM/YHOVYH0UE39Y5JO8GKPZ6F.uasset'
+[2025.09.10-12.10.10:005][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/7/LA/N6FBI24JG36OXEJEZ99N1W
+[2025.09.10-12.10.10:005][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/N6FBI24JG36OXEJEZ99N1WCF587D6E420D64D74D087BB6AB849683.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/7/LA/N6FBI24JG36OXEJEZ99N1W.uasset'
+[2025.09.10-12.10.10:011][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/1/4W/XKS2A7NH7IJU7U9DYIQT7W
+[2025.09.10-12.10.10:011][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/XKS2A7NH7IJU7U9DYIQT7W64C90BB24232AA0125A0BFA7F765D29A.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/1/4W/XKS2A7NH7IJU7U9DYIQT7W.uasset'
+[2025.09.10-12.10.10:018][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/4/M1/89YLGN1OHXMTPXOWRK6FD6
+[2025.09.10-12.10.10:018][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/89YLGN1OHXMTPXOWRK6FD6D13AE64D48AE502C6E6D7495A4DF0E59.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/4/M1/89YLGN1OHXMTPXOWRK6FD6.uasset'
+[2025.09.10-12.10.10:024][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/A/9K/DR4N2BKFDCKX7N2H8ZEA67
+[2025.09.10-12.10.10:024][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/DR4N2BKFDCKX7N2H8ZEA67ECEDAF434A5205E2BE0ECBA1525FF7B2.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/A/9K/DR4N2BKFDCKX7N2H8ZEA67.uasset'
+[2025.09.10-12.10.10:030][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/6/UD/JBTT2KRCDT4AGLP1FNO2PF
+[2025.09.10-12.10.10:030][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/JBTT2KRCDT4AGLP1FNO2PF547E00144AD64B5CF511738C53AE2F9B.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/6/UD/JBTT2KRCDT4AGLP1FNO2PF.uasset'
+[2025.09.10-12.10.10:037][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/7/93/MTJZ4MI2GFFK35WOXM7R1U
+[2025.09.10-12.10.10:037][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/MTJZ4MI2GFFK35WOXM7R1U95C58333480B7559DF17A9A5212CB730.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/7/93/MTJZ4MI2GFFK35WOXM7R1U.uasset'
+[2025.09.10-12.10.10:043][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/3/US/BJYP4A6HZBHNEH645NVVVU
+[2025.09.10-12.10.10:043][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/BJYP4A6HZBHNEH645NVVVU7AFA1FE8442EB9F5ED89E39630003F68.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/3/US/BJYP4A6HZBHNEH645NVVVU.uasset'
+[2025.09.10-12.10.10:049][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/9/XP/KI2TSX2ZBLI1ZIDEVHUP9F
+[2025.09.10-12.10.10:049][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/KI2TSX2ZBLI1ZIDEVHUP9FE063698F47E74D777F2C6AA670A0224B.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/9/XP/KI2TSX2ZBLI1ZIDEVHUP9F.uasset'
+[2025.09.10-12.10.10:055][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/9/JC/KFXFWFYICCJMMXOSQPYKD3
+[2025.09.10-12.10.10:055][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/KFXFWFYICCJMMXOSQPYKD3F87D202B4BDC9BB3574BE28C6C36284A.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/9/JC/KFXFWFYICCJMMXOSQPYKD3.uasset'
+[2025.09.10-12.10.10:061][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/1/FA/SF43Y05N94UERE9CILFWTS
+[2025.09.10-12.10.10:061][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/SF43Y05N94UERE9CILFWTSAB6566544969CB8D2C67A799A998ACC3.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/1/FA/SF43Y05N94UERE9CILFWTS.uasset'
+[2025.09.10-12.10.10:067][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/5/TB/4854OKS3BDWCADKUS3FOMA
+[2025.09.10-12.10.10:067][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/4854OKS3BDWCADKUS3FOMAECED43104F0F17D45434EF8ED21A7F4B.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/5/TB/4854OKS3BDWCADKUS3FOMA.uasset'
+[2025.09.10-12.10.10:073][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/9/C2/DEGL6UI2QHG6DMZTE2OH87
+[2025.09.10-12.10.10:073][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/DEGL6UI2QHG6DMZTE2OH872FCBF4B143FFF5A04206A7B5DFD9E15F.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/9/C2/DEGL6UI2QHG6DMZTE2OH87.uasset'
+[2025.09.10-12.10.10:079][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/4/95/J20HUM0NSG5G8423LOZO1P
+[2025.09.10-12.10.10:079][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/J20HUM0NSG5G8423LOZO1PD897000D4F00E121894C0C9F39631B37.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/4/95/J20HUM0NSG5G8423LOZO1P.uasset'
+[2025.09.10-12.10.10:087][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/6/NA/WWRJKKX4C1JC80P6MN58A9
+[2025.09.10-12.10.10:087][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/WWRJKKX4C1JC80P6MN58A9C5164EC24AD9494B4B2428A88BBD4973.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/6/NA/WWRJKKX4C1JC80P6MN58A9.uasset'
+[2025.09.10-12.10.10:093][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/C/CE/0NFPLRZODATS9CZO81N570
+[2025.09.10-12.10.10:093][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/0NFPLRZODATS9CZO81N5706485DC3049320822DA419BAE77D4630A.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/C/CE/0NFPLRZODATS9CZO81N570.uasset'
+[2025.09.10-12.10.10:100][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/7/8T/ZLL01NZQGAFC2C1ARK1A13
+[2025.09.10-12.10.10:100][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/ZLL01NZQGAFC2C1ARK1A13F39D477E4DBB00B25F9FC081B6282F3A.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/7/8T/ZLL01NZQGAFC2C1ARK1A13.uasset'
+[2025.09.10-12.10.10:106][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/A/S7/XJ98TYXJLME2JF5QM2O24P
+[2025.09.10-12.10.10:106][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/XJ98TYXJLME2JF5QM2O24PC12660444AA31FA233EFD5AE732D0816.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/A/S7/XJ98TYXJLME2JF5QM2O24P.uasset'
+[2025.09.10-12.10.10:112][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/9/GC/4NRG84QGDYGIK3GNNHAURI
+[2025.09.10-12.10.10:112][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/4NRG84QGDYGIK3GNNHAURI29749FB045B283A980202EA5FB3E52E1.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/9/GC/4NRG84QGDYGIK3GNNHAURI.uasset'
+[2025.09.10-12.10.10:120][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/A/ZE/TEK39VXLD8TG50PKSNAP3Q
+[2025.09.10-12.10.10:120][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/TEK39VXLD8TG50PKSNAP3Q9E407F52489DCBE72BE33D83E30E47CD.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/A/ZE/TEK39VXLD8TG50PKSNAP3Q.uasset'
+[2025.09.10-12.10.10:126][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/8/42/ZRCPKBERJCGFHOG6RGPEIM
+[2025.09.10-12.10.10:126][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/ZRCPKBERJCGFHOG6RGPEIME96CE5A74879CC93CC90C28B9B775EB4.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/8/42/ZRCPKBERJCGFHOG6RGPEIM.uasset'
+[2025.09.10-12.10.10:132][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/A/0O/HSIVRHAH4CGQLANVZ6IONV
+[2025.09.10-12.10.10:132][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/HSIVRHAH4CGQLANVZ6IONV1E4657BB4BFB9776495583B660FFD407.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/A/0O/HSIVRHAH4CGQLANVZ6IONV.uasset'
+[2025.09.10-12.10.10:139][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/0/XI/RML5YDC3LSQPBR7GY3YCSG
+[2025.09.10-12.10.10:139][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/RML5YDC3LSQPBR7GY3YCSG9B3E98E04C62D040F09AE89CE2EAA5DF.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/0/XI/RML5YDC3LSQPBR7GY3YCSG.uasset'
+[2025.09.10-12.10.10:145][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/3/E3/WIM5NIA1Y2J12N4BQYW1S4
+[2025.09.10-12.10.10:145][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/WIM5NIA1Y2J12N4BQYW1S4C443476E49211B57D239069B7212947A.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/3/E3/WIM5NIA1Y2J12N4BQYW1S4.uasset'
+[2025.09.10-12.10.10:151][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/D/S6/XD4KCGQONGRI6I8EDNN2FF
+[2025.09.10-12.10.10:151][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/XD4KCGQONGRI6I8EDNN2FF0086654147A781162A5076A9F0AFA139.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/D/S6/XD4KCGQONGRI6I8EDNN2FF.uasset'
+[2025.09.10-12.10.10:157][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/7/5J/NX1ICE71HE9KUNIYQNTVHS
+[2025.09.10-12.10.10:157][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/NX1ICE71HE9KUNIYQNTVHS6765E6AE424B40713A600CAC201C72BD.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/7/5J/NX1ICE71HE9KUNIYQNTVHS.uasset'
+[2025.09.10-12.10.10:165][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/5/N8/U1XRC60PGGZROWYON9P4T2
+[2025.09.10-12.10.10:165][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/U1XRC60PGGZROWYON9P4T2F37C361E4D7C9ECBF2E554AA25FA1E5C.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/5/N8/U1XRC60PGGZROWYON9P4T2.uasset'
+[2025.09.10-12.10.10:172][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/6/TE/OHZWJQ933AVIZPN1IHBHFE
+[2025.09.10-12.10.10:172][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/OHZWJQ933AVIZPN1IHBHFEB45E43B047F1D9490B72A6AB9B8D61CA.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/6/TE/OHZWJQ933AVIZPN1IHBHFE.uasset'
+[2025.09.10-12.10.10:177][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/3/K7/0E41GIR6X519SMNGCHT5NT
+[2025.09.10-12.10.10:177][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/0E41GIR6X519SMNGCHT5NT7D5FFAE04D9809543BF676B1D513D134.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/3/K7/0E41GIR6X519SMNGCHT5NT.uasset'
+[2025.09.10-12.10.10:182][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/2/UM/YQ5TL92HS4XLBS1NA3MVDP
+[2025.09.10-12.10.10:182][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/YQ5TL92HS4XLBS1NA3MVDPBB34E7A64BC25B7D1BAE3D93F6B5B171.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/2/UM/YQ5TL92HS4XLBS1NA3MVDP.uasset'
+[2025.09.10-12.10.10:190][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/2/OB/Y8K0A77IAOZV8FGGARJLEI
+[2025.09.10-12.10.10:190][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/Y8K0A77IAOZV8FGGARJLEIE38C3C3C4EACE00650468D946A3F156D.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/2/OB/Y8K0A77IAOZV8FGGARJLEI.uasset'
+[2025.09.10-12.10.10:197][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/A/WE/XOVLVRHSOF3O4O7IVZ4A3T
+[2025.09.10-12.10.10:197][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/XOVLVRHSOF3O4O7IVZ4A3T7F26336646149D8F153B7EBCFC3C5EE8.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/A/WE/XOVLVRHSOF3O4O7IVZ4A3T.uasset'
+[2025.09.10-12.10.10:205][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/5/9O/IGR8RNABXIKBSW2WRJKEJK
+[2025.09.10-12.10.10:205][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/IGR8RNABXIKBSW2WRJKEJKAFC9735C41929F81C6621BB177D9231F.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/5/9O/IGR8RNABXIKBSW2WRJKEJK.uasset'
+[2025.09.10-12.10.10:212][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/0/UQ/81N7E85WLLFL8ADINEAD2K
+[2025.09.10-12.10.10:212][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/81N7E85WLLFL8ADINEAD2K82FA64304FE11F6B13AA7C986E209F6C.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/0/UQ/81N7E85WLLFL8ADINEAD2K.uasset'
+[2025.09.10-12.10.10:219][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/8/UN/6LQW98DODRF0Q6V89VIZGE
+[2025.09.10-12.10.10:219][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/6LQW98DODRF0Q6V89VIZGE4BBD065E4D856D7479F231BCBE920998.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/8/UN/6LQW98DODRF0Q6V89VIZGE.uasset'
+[2025.09.10-12.10.10:225][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/E/FC/RPG942PAQS5WIGWILTB5MP
+[2025.09.10-12.10.10:226][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/RPG942PAQS5WIGWILTB5MP3C60859145C208B7EC3DD59FB03AE6F9.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/E/FC/RPG942PAQS5WIGWILTB5MP.uasset'
+[2025.09.10-12.10.10:232][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/5/PR/LUNQT0H38MWQAWW86WKDXL
+[2025.09.10-12.10.10:232][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/LUNQT0H38MWQAWW86WKDXLD037396E466E9C20C26B1C934C322DCE.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/5/PR/LUNQT0H38MWQAWW86WKDXL.uasset'
+[2025.09.10-12.10.10:237][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/C/UG/2AL0B978GWCS44IRC9RKPX
+[2025.09.10-12.10.10:237][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/2AL0B978GWCS44IRC9RKPX6F22C5FD423608D477EBBF8E71141E99.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/C/UG/2AL0B978GWCS44IRC9RKPX.uasset'
+[2025.09.10-12.10.10:244][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/D/XM/UMKP5Z6ZAK0CTRBTA3PWR5
+[2025.09.10-12.10.10:244][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/UMKP5Z6ZAK0CTRBTA3PWR54C09F02D4C3CB1826EABB598BF4560E0.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/D/XM/UMKP5Z6ZAK0CTRBTA3PWR5.uasset'
+[2025.09.10-12.10.10:250][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/9/D0/3KA2DVXOYTSMNK9O6H75BF
+[2025.09.10-12.10.10:250][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/3KA2DVXOYTSMNK9O6H75BF5473D49E4565FFF326A69D8E69CC2D2C.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/9/D0/3KA2DVXOYTSMNK9O6H75BF.uasset'
+[2025.09.10-12.10.10:256][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/1/RY/Q418720LYT2OU6MT028T7E
+[2025.09.10-12.10.10:256][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/Q418720LYT2OU6MT028T7E8B82A9AC44766BDF5CA55E82B7F2EA07.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/1/RY/Q418720LYT2OU6MT028T7E.uasset'
+[2025.09.10-12.10.10:262][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/B/K5/STPRXODFFU7KCE5DK06ULV
+[2025.09.10-12.10.10:262][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/STPRXODFFU7KCE5DK06ULV286AB6744AECC30C4595E9A6CF046452.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/B/K5/STPRXODFFU7KCE5DK06ULV.uasset'
+[2025.09.10-12.10.10:268][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/B/BY/WDKNI7I707W4QQ81U701P6
+[2025.09.10-12.10.10:268][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/WDKNI7I707W4QQ81U701P627B3C529479EAD9A109CD68BB6F62DF6.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/B/BY/WDKNI7I707W4QQ81U701P6.uasset'
+[2025.09.10-12.10.10:274][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/E/RK/COBVN9N7668ZJLMIRAQXFN
+[2025.09.10-12.10.10:274][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/COBVN9N7668ZJLMIRAQXFN2AB08370479AF04124C09A9E5C466645.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/E/RK/COBVN9N7668ZJLMIRAQXFN.uasset'
+[2025.09.10-12.10.10:281][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/0/F0/YTOF5DSN9WZ4XD3QESIMFY
+[2025.09.10-12.10.10:281][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/YTOF5DSN9WZ4XD3QESIMFYE89045DF4892686762F65EB6AEB7AFF8.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/0/F0/YTOF5DSN9WZ4XD3QESIMFY.uasset'
+[2025.09.10-12.10.10:287][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/0/8B/UU2UJR7Y8I0F5G0M26TKI7
+[2025.09.10-12.10.10:287][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/UU2UJR7Y8I0F5G0M26TKI78BDCA67F4EF17AF4E610CC8BDC3B2F0F.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/0/8B/UU2UJR7Y8I0F5G0M26TKI7.uasset'
+[2025.09.10-12.10.10:294][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/E/S1/0F7HCGL59ORPT9MAKCRX22
+[2025.09.10-12.10.10:294][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/0F7HCGL59ORPT9MAKCRX22D74422E34C7A4815DD45D9A8F2EDD673.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/E/S1/0F7HCGL59ORPT9MAKCRX22.uasset'
+[2025.09.10-12.10.10:299][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/C/V6/HPBK3B743T0ECCF5VE9K5V
+[2025.09.10-12.10.10:299][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/HPBK3B743T0ECCF5VE9K5VB3886571489CC309B3E552A96A9DCE0A.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/C/V6/HPBK3B743T0ECCF5VE9K5V.uasset'
+[2025.09.10-12.10.10:306][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/5/OR/5RWTRGF0A7LVIFPYDY3SCL
+[2025.09.10-12.10.10:306][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/5RWTRGF0A7LVIFPYDY3SCLD9E8F77B4B8AFB459ACB219D1EC8C712.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/5/OR/5RWTRGF0A7LVIFPYDY3SCL.uasset'
+[2025.09.10-12.10.10:312][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/6/9Q/4Z162KB3E9BRG933KZDLHV
+[2025.09.10-12.10.10:312][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/4Z162KB3E9BRG933KZDLHV3F46BC4940D704E2648E7A8BD0CDBA78.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/6/9Q/4Z162KB3E9BRG933KZDLHV.uasset'
+[2025.09.10-12.10.10:317][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/A/TD/4CYUYU3MYKBNLDP2KTB24L
+[2025.09.10-12.10.10:317][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/4CYUYU3MYKBNLDP2KTB24LFF4D5C5C4B9E2DC80ADA93A9CC0389BE.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/A/TD/4CYUYU3MYKBNLDP2KTB24L.uasset'
+[2025.09.10-12.10.10:324][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/dagsscen/3/TX/58Q9HWXNXSZ65XD9QW0F38
+[2025.09.10-12.10.10:324][195]LogSavePackage: Moving '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/58Q9HWXNXSZ65XD9QW0F38F29AA1674DE75DDF0537D09A52FA52FF.tmp' to '../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Content/__ExternalActors__/dagsscen/3/TX/58Q9HWXNXSZ65XD9QW0F38.uasset'
+[2025.09.10-12.10.10:337][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 620.264 ms (total: 1.48 sec)
+[2025.09.10-12.10.10:388][195]LogContentValidation: Display: Starting to validate 81 assets
+[2025.09.10-12.10.10:388][195]LogContentValidation: Enabled validators:
+[2025.09.10-12.10.10:388][195]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-12.10.10:388][195]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-12.10.10:388][195]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-12.10.10:388][195]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-12.10.10:388][195]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-12.10.10:388][195]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-12.10.10:389][195]AssetCheck: /Game/dagsscen Validating asset
+[2025.09.10-12.10.10:408][195]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/kagu7440/Documents/GitHub/3dr/ue5.6/DSV_3DR 5.6 - 2/Saved/SourceControl/UncontrolledChangelists.json
